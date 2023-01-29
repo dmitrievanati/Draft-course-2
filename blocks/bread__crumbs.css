@@ -1,0 +1,13 @@
+.bread__crumbs__item {
+  display: flex;
+  text-decoration-line: underline;
+}
+.bread__crumbs__list {
+  display: flex;
+  font-size: 14px;
+  line-height: 19px; 
+  margin-bottom: 27px;
+  color: #9A9A9A;
+}
+
+

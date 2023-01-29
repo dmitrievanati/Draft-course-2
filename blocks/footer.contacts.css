@@ -1,0 +1,21 @@
+
+
+
+.footer .contacts {
+  font-style: normal;
+  text-align: right;
+  top: 44px;
+  right: 0px;
+}
+.footer .contacts__text {
+  font-size: 11px;
+  line-height: 20px;
+  color:  #9A9A9A;
+}
+
+.footer .contacts2__tel {
+  position: relative;
+  font-size: 26px;
+  line-height: 20px;
+  top: 4px;
+}

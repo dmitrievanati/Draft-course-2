@@ -1,0 +1,37 @@
+.cap {
+  background: url("../img/top-line.png")center top no-repeat;
+  min-height: 416px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.conteiner__cap {
+  width: 1140px;
+  margin: 0 auto;
+  flex: 1;
+}
+
+
+
+.cap__title {
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 98px;
+  text-transform: uppercase;
+  margin: 96px 0 83px;
+}
+
+.bread__crumbs__item:after {
+  content:"/";
+  color: #9A9A9A;
+}
+
+.bread__crumbs__item:last-child:after {
+  display: none;
+}
+.bread__crumbs__item {
+  font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+padding-right: 3px;
+}

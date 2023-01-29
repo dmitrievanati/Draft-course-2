@@ -1,0 +1,42 @@
+.about {
+  display: flex;
+  margin-bottom: 44px;
+  min-height: 563px;
+}
+
+.about__content {
+  display: block;
+  background: #fff;
+  color: #17191c;
+  border-radius: 5px;
+  max-width: 784px;
+  min-height: 455px;
+  margin-left: -138px;
+  margin-top: 96px;
+  padding: 69px 80px 66px;
+}
+.about__title {
+  font-weight: 800;
+  font-size: 37px;
+  text-transform: uppercase;
+  line-height: 49px;
+  margin-bottom: 40px;
+  margin-top: 0;
+}
+.about__text {
+  font-size: 16px;
+  line-height: 27px;
+  margin-bottom: 67px;
+}
+.button-2 {
+  color: #fff;
+  background: #FF3D00;
+  border-radius: 35px;
+  font-size: 14px;
+  padding: 18px 44px;
+  font-weight: bold;
+}
+
+.button-2 {
+  border: solid transparent;
+}

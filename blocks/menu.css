@@ -1,0 +1,32 @@
+.menu {
+  display: flex;
+  justify-content: center;
+}
+.menu__main {
+  margin-left: 18px;
+}
+
+.menu__item {
+  display: inline-flex;
+  margin-right: 52px;
+}
+
+.menu__item:last-child {
+  margin-right: 0;
+}
+
+.menu__link {
+  font-size: 14px;
+  line-height: 19px;
+  text-decoration: none;
+}
+
+.footer .menu__item {
+  margin-right: 50px;
+  font-size: 14px;
+  line-height: 19px;
+}
+.footer .menu__item:last-child {
+  margin-right: 0;
+}
+

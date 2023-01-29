@@ -1,0 +1,48 @@
+.contacts {
+  justify-content: flex-end;
+  
+}
+
+.contacts {
+  font-style: normal;
+  text-align: right;
+ 
+}
+.contacts__tel {
+ 
+  display: block;
+  text-decoration: none;
+  font-size: 26px;
+  line-height: 35px;
+
+}
+.contacts__chart {
+  
+  font-size: 13px;
+  line-height: 18px;
+  text-decoration: underline;
+  color: #FF3D00;
+}
+
+.footer .contacts {
+  font-style: normal;
+  text-align: right;
+ 
+}
+.footer .contacts__text {
+  font-size: 11px;
+  line-height: 20px;
+  color:  #9A9A9A;
+}
+
+.footer__col .contacts__text {
+  font-size: 11px;
+  line-height: 20px;
+  color:  #9A9A9A;
+
+}
+
+
+.contacts__right {
+  margin-left: 74px;
+}

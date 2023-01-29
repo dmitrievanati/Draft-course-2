@@ -1,0 +1,30 @@
+.paginator {
+ display: flex;
+ align-items: center;
+ 
+ justify-content: center;
+}
+.paginator__display,.paginator__list,.paginator__item {
+  display: inline-flex;
+}
+.paginator__display {
+  font-size: 14px;
+  line-height: 20px;
+  margin-right: 20px;
+}
+.paginator__link {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px; 
+  margin-right: 0px;
+
+ background: transparent;
+  border-radius: 50%;
+  padding: 6px 14px;
+}
+.paginator__link:hover {
+  background: #FF5500;
+}
+.paginator__item-active .paginator__link {
+  background:  #FF5500;
+}

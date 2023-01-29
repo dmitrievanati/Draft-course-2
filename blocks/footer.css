@@ -1,0 +1,33 @@
+.footer {
+  min-height: 149px;
+  border-top: 1px solid #2E3032;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.conteiner__services__footer {
+  display: flex;
+  width: 1140px;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding-top: 46px;
+  padding-bottom: 40px;
+}
+
+.footer__col {
+  display: inline-flex;
+  align-items: center;
+}
+
+
+.footer__col__aling__right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+
+
+.footer .menu {
+  top: 56px;
+  left: 458px;
+}
+.footer .menu__item {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 50px;
+  font-size: 14px;
+  line-height: 19px;
+}
+.footer .menu__item:last-child {
+  margin-right: 0;
+}
