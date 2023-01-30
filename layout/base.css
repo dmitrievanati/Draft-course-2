@@ -26,7 +26,7 @@ body {
 
 
 .main-page-wrapper {
-  background: url("../img/hero.png")center top no-repeat url("../img/bottom-pic.png")right bottom no-repeat;
+  background: url("../img/hero.png")center top no-repeat, url("../img/bottom-pic.png")right bottom no-repeat;
 }
 
 .container {

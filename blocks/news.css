@@ -20,17 +20,22 @@
   min-width: 555px;
   position: relative;
   margin-right: 22px;
+  height: 394px;
+  display: flex;
+  align-items: flex-end;
 }
 .news__item:last-child {
   margin-right: 0;
 }
-.news__content {
+
+.news__cover {
   position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
+}
+
+.news__content {
   padding-left: 30px;
   padding-bottom: 24px;
+  position: relative;
 }
 .news__date-month {
   font-size: 14px;
