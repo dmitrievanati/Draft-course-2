@@ -1,0 +1,50 @@
+.dropdown__triangle {
+  display: block;
+  border: 10px solid transparent;
+  width: 0px;
+  height: 0px;
+  border-bottom-color: #fff;
+  border-top-width: 0;
+}
+
+.dropdown__list {
+  position: absolute;
+  text-align: center;
+  width: 160px;
+  height: 66px;
+  background: #fff;
+  border-radius: 5px;
+  color: #1E1F20;
+}
+
+.dropdown {
+  position: relative;
+  display: block;
+  margin-left: 32px;
+  top: 100%;
+  display: none;
+}
+
+.contacts__dropdown {
+
+}
+
+.contacts__dropdown:hover .dropdown {
+  display: block;
+}
+
+.dropdown__text2 {
+  margin-top: 7px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.dropdown__text {
+  margin-top: 12px;
+  font-size: 13px;
+  font-weight: bolder;
+}
+
+.dropdown__triangle {
+  display: block;
+  margin-left: 96px;
+}

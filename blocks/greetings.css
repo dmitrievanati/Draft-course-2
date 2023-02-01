@@ -1,0 +1,42 @@
+.wraperr-greetings {
+  align-items: center;
+  justify-content: center;
+  background: url("../img/bg.png")center top no-repeat;
+
+}
+
+.conteiner__greetings {
+  background: url("../img/rec.png")center center;
+}
+
+.conteiner__greetings {
+  width: 1128px;
+  height: 643px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.conteiner__logo {
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo__greetings {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+
+.main-page-wrapper {
+  background: url("../img/hero.png")center top no-repeat, url("../img/bottom-pic.png")right bottom no-repeat;
+}
+
+.greetings__button {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+}
+  
