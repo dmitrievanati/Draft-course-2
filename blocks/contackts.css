@@ -46,3 +46,6 @@
 .contacts__right {
   margin-left: 74px;
 }
+.contacts__dropdown {
+  position: relative;
+}

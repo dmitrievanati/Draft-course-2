@@ -1,0 +1,37 @@
+.discount {
+  position: relative;
+  background: #373737;
+}
+
+.discount__cover {
+  position: relative;
+  margin-left: 790px;
+}
+
+.discount__conteiner {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.discount__text {
+  margin-top: 117px;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 65px;
+  width: 520px;
+  height: 130px;
+}
+.discount__text-perctnts {
+  color: #FF5400;
+}
+
+
+
+
+
+

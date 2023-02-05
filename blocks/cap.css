@@ -11,15 +11,14 @@
   flex: 1;
 }
 
-
-
 .cap__title {
   font-weight: 800;
   font-size: 72px;
   line-height: 98px;
   text-transform: uppercase;
-  margin: 96px 0 83px;
+  margin: 96px 0 8px;
 }
+
 
 .bread__crumbs__item:after {
   content:"/";

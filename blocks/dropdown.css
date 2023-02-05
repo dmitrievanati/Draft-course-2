@@ -18,16 +18,13 @@
 }
 
 .dropdown {
-  position: relative;
+  position: absolute;
   display: block;
   margin-left: 32px;
   top: 100%;
   display: none;
 }
 
-.contacts__dropdown {
-
-}
 
 .contacts__dropdown:hover .dropdown {
   display: block;

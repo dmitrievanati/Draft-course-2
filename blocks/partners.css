@@ -19,10 +19,6 @@
   display: flex;
   flex-wrap: wrap;
 }
-.conteiner__partners {
-  width: 1140px;
-  margin: 0 auto;
-} 
 
 .partners__title {
   font-weight: 700;
