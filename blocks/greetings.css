@@ -10,11 +10,11 @@
 
 }
 
-.conteiner__greetings {
+.greetings {
   background: url("../img/rec.png")center center;
 }
 
-.conteiner__greetings {
+.greetings {
   width: 1128px;
   height: 643px;
   display: flex;;
@@ -22,7 +22,7 @@
   justify-content: center;
 }
 
-.conteiner__logo {
+.greetings__animation {
   display: flex; 
   flex-direction: column;
   align-items: center;
@@ -34,7 +34,7 @@
 }
 
 
-.button__greeting {
+.greetings__animation-button {
   display: inline-block;
   margin-top: 44px;
   background:  #FF5500;

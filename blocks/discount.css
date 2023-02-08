@@ -1,6 +1,8 @@
 .discount {
   position: relative;
   background: #373737;
+  height: 360px;
+  background: url(../img/party.png)right top no-repeat;
 }
 
 .discount__cover {

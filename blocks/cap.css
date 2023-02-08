@@ -16,21 +16,27 @@
   font-size: 72px;
   line-height: 98px;
   text-transform: uppercase;
-  margin: 96px 0 8px;
+  margin: 96px 0 88px;
 }
 
+.breadcrumbs {
+  display: flex;
+}
 
-.bread__crumbs__item:after {
+.breadcrumbs__item:after {
   content:"/";
   color: #9A9A9A;
 }
 
-.bread__crumbs__item:last-child:after {
+.breadcrumbs__item:last-child:after {
   display: none;
 }
-.bread__crumbs__item {
+.breadcrumbs__item {
+  display: inline-block;
   font-weight: 400;
-font-size: 14px;
-line-height: 19px;
-padding-right: 3px;
+  font-size: 14px;
+  line-height: 19px;
+  padding-right: 3px;
+  color: #9A9A9A;
+ 
 }
