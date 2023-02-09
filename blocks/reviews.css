@@ -49,9 +49,11 @@
 }
 
 .review__user:after {
-  content: url(../img/vk-blue\ 1.png);
-  height: 29px;
+  display: block;
+  content: "";
   margin-left: 22px;
+  width: 30px; height: 30px;
+  background: url(../css_sprites.png) -122px -10px;
 }
 
 .cap__title-reviews {

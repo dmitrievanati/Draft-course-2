@@ -12,3 +12,24 @@
 .socials__item:last-child {
   margin-right: 0;
 }
+
+.socials__icon {
+  width: 36px; height: 36px;
+  background: url(../css_sprites.png);
+}
+
+.telegram {
+  background-position: -66px -10px;
+}
+
+.vk {
+  background-position: -66px -66px;
+}
+
+.f {
+  background-position: -10px -10px;
+}
+
+.in {
+  background-position: -10px -66px;
+}
